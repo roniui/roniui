@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🌱 I’m currently learning **CSS, Tailwind CSS**
+<h3 align="center">​I am an Electrical Engineering student based in India</h3>
 
 - 👨‍💻 All of my projects are available at [https://roniui.github.io](https://roniui.github.io)
 
